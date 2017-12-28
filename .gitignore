@@ -31,6 +31,7 @@ project.properties
 proguard-project.txt
 linklint_results
 Makefile
+compile_commands.json
 flatc
 flatc.exe
 flathash
